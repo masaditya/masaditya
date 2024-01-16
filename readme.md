@@ -29,9 +29,8 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「 I am a Frontend Engineer from <b>Indonesia</b> 」
     <br>
     <br>
   </samp>
@@ -41,7 +40,7 @@
  <a href="https://masaditya.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="masaditya" />
  </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
+ <a href="https://linkedin.com/in/masaditya" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="masaditya"/>
  </a>
  <!-- <a href="https://dev.to/masaditya" target="_blank">
@@ -101,12 +100,6 @@
 
 <br/>
 
-## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=masaditya&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/masaditya/itasks)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=masaditya&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/masaditya/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=masaditya&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/masaditya/web-projects)
-[![Aditya Eka Readme](https://github-readme-stats.vercel.app/api/pin/?username=masaditya&repo=masaditya&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/masaditya/masaditya)
-
 <p align="left">
   <a href="https://github.com/masaditya?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
@@ -134,4 +127,4 @@
 </a>
 
 
-![Aditya Eka's Graph](https://github-readme-activity-graph.vercel.app/graph?username=masaditya&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Aditya Eka's Graph](https://github-readme-activity-graph.vercel.app/graph?username=masaditya&custom_title=masaditya's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
