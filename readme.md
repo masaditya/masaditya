@@ -37,24 +37,15 @@
 </p>
 
 <p align="center">
- <a href="https://masaditya.com" target="blank">
+ <a href="https://masaditya.site" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="masaditya" />
  </a>
  <a href="https://linkedin.com/in/masaditya" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="masaditya"/>
  </a>
- <!-- <a href="https://dev.to/masaditya" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="masaditya" />
- </a> -->
- <a href="https://twitter.com/_masaditya" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://instagram.com/_masaditya" target="_blank">
+ <a href="https://instagram.com/masaditya___" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="masaditya" />
  </a> 
- <a href="https://facebook.com/masaditya.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="masaditya"  />
-  </a> 
 </p>
 <br />
 
@@ -66,8 +57,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: masaditya.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/masaditya/masaditya/issues)
+ 📧 &emsp; Reach me anytime: aeka489@gmail.com<br/><br/>
 
 </p>
 
